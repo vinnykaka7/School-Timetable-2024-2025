@@ -1,4 +1,5 @@
 # School-Timetable-2024-2025
+
 ## Project Description
 
 This project recreates the 2024/2025 academic year school timetable using **HTML** and **CSS**.  
